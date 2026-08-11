@@ -1,0 +1,31 @@
+VendorID,VendorName,CertificationType,Region,Sector
+V1000,Summit Supply Co,MBE,Northeast,Finance
+V1001,Vertex Industrial,WBE,Southeast,Aviation
+V1002,BlueRiver Logistics,MBE,Southwest,Healthcare
+V1003,Novaline Systems,SME,West,Healthcare
+V1004,Cascade Manufacturing,MBE,Northeast,Aviation
+V1005,Pinnacle Health Supply,WBE,Southwest,Healthcare
+V1006,Meridian Aviation Parts,SME,Southeast,Manufacturing
+V1007,Union Fabrication,WBE,West,Finance
+V1008,Solstice Consulting,MBE,Southeast,Manufacturing
+V1009,Ironclad Materials,VOB,Midwest,Aviation
+V1010,Harbor Tech Solutions,WBE,Midwest,Healthcare
+V1011,Redwood Facilities Group,MBE,West,Healthcare
+V1012,Falcon Aerospace Supply,VOB,Midwest,Finance
+V1013,Brightpath Staffing,MBE,West,Healthcare
+V1014,Continental Machine Works,DOBE,Northeast,Finance
+V1015,Apex Diversity Partners,SME,Midwest,Aviation
+V1016,Silverline Logistics,MBE,Northeast,Aviation
+V1017,TrueNorth Manufacturing,VOB,Northeast,Aviation
+V1018,Coastal Medical Supply,MBE,West,Finance
+V1019,Granite Industrial Services,DOBE,Midwest,Aviation
+V1020,Zenith Airparts,VOB,Midwest,Aviation
+V1021,Fusion Metalworks,VOB,Northeast,Aviation
+V1022,Beacon Financial Services,SME,Southeast,Aviation
+V1023,Elevate Construction Supply,DOBE,West,Finance
+V1024,Momentum Facility Services,SME,Southeast,Finance
+V1025,Crestline Consulting,MBE,Southeast,Healthcare
+V1026,Waypoint Logistics,VOB,West,Finance
+V1027,Northgate Industrial,MBE,Southeast,Finance
+V1028,Argus Health Products,WBE,West,Manufacturing
+V1029,Pioneer Fabricators,DOBE,Southeast,Finance

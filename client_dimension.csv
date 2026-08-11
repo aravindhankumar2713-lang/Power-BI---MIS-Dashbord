@@ -1,0 +1,26 @@
+Client,Sector,AnnualDiversityTarget
+Client 001,Aviation,567000.0
+Client 002,Manufacturing,718000.0
+Client 003,Healthcare,510000.0
+Client 004,Manufacturing,217000.0
+Client 005,Finance,700000.0
+Client 006,Aviation,703000.0
+Client 007,Manufacturing,335000.0
+Client 008,Finance,646000.0
+Client 009,Manufacturing,327000.0
+Client 010,Aviation,738000.0
+Client 011,Aviation,246000.0
+Client 012,Finance,434000.0
+Client 013,Manufacturing,765000.0
+Client 014,Aviation,294000.0
+Client 015,Finance,443000.0
+Client 016,Manufacturing,377000.0
+Client 017,Manufacturing,167000.0
+Client 018,Finance,185000.0
+Client 019,Manufacturing,476000.0
+Client 020,Manufacturing,303000.0
+Client 021,Aviation,796000.0
+Client 022,Aviation,394000.0
+Client 023,Aviation,168000.0
+Client 024,Finance,755000.0
+Client 025,Healthcare,695000.0

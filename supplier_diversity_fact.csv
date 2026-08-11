@@ -1,0 +1,531 @@
+Month,VendorID,VendorName,CertificationType,CertExpiryDate,IsCompliant,Client,Sector,Region,Spend,PerformanceScore
+2025-01-01,V1000,Summit Supply Co,MBE,2026-01-01,1,Client 018,Finance,Northeast,23677.84,83.9
+2025-01-01,V1000,Summit Supply Co,MBE,2025-07-20,1,Client 009,Finance,Northeast,6501.41,87.6
+2025-01-01,V1000,Summit Supply Co,MBE,2026-01-01,1,Client 024,Finance,Northeast,44661.15,91.1
+2025-01-01,V1001,Vertex Industrial,WBE,2026-01-01,1,Client 005,Aviation,Southeast,10621.76,80.8
+2025-01-01,V1002,BlueRiver Logistics,MBE,2025-03-02,1,Client 004,Healthcare,Southwest,19954.34,69.7
+2025-01-01,V1003,Novaline Systems,SME,2025-07-20,1,Client 014,Healthcare,West,28971.81,72.8
+2025-01-01,V1003,Novaline Systems,SME,2025-07-20,1,Client 020,Healthcare,West,7925.49,73.7
+2025-01-01,V1003,Novaline Systems,SME,2026-01-01,1,Client 003,Healthcare,West,10187.62,89.8
+2025-01-01,V1005,Pinnacle Health Supply,WBE,2024-12-02,0,Client 001,Healthcare,Southwest,10955.78,85.9
+2025-01-01,V1005,Pinnacle Health Supply,WBE,2026-05-16,1,Client 022,Healthcare,Southwest,10447.22,92.6
+2025-01-01,V1005,Pinnacle Health Supply,WBE,2026-01-01,1,Client 024,Healthcare,Southwest,10434.21,99.8
+2025-01-01,V1008,Solstice Consulting,MBE,2025-07-20,1,Client 014,Manufacturing,Southeast,11055.34,85.0
+2025-01-01,V1008,Solstice Consulting,MBE,2024-12-02,0,Client 006,Manufacturing,Southeast,29079.81,75.2
+2025-01-01,V1011,Redwood Facilities Group,MBE,2024-12-02,0,Client 025,Healthcare,West,79352.41,94.5
+2025-01-01,V1011,Redwood Facilities Group,MBE,2026-05-16,1,Client 006,Healthcare,West,27614.69,86.4
+2025-01-01,V1011,Redwood Facilities Group,MBE,2025-05-01,1,Client 017,Healthcare,West,7196.02,72.3
+2025-01-01,V1013,Brightpath Staffing,MBE,2025-05-01,1,Client 005,Healthcare,West,11748.55,93.5
+2025-01-01,V1015,Apex Diversity Partners,SME,2025-07-20,1,Client 001,Aviation,Midwest,6380.24,86.1
+2025-01-01,V1015,Apex Diversity Partners,SME,2024-12-02,0,Client 020,Aviation,Midwest,9775.33,89.9
+2025-01-01,V1015,Apex Diversity Partners,SME,2024-12-02,0,Client 011,Aviation,Midwest,25022.71,92.1
+2025-01-01,V1019,Granite Industrial Services,DOBE,2026-01-01,1,Client 008,Aviation,Midwest,8449.35,82.5
+2025-01-01,V1021,Fusion Metalworks,VOB,2026-01-01,1,Client 003,Aviation,Northeast,4241.9,93.8
+2025-01-01,V1021,Fusion Metalworks,VOB,2025-03-02,1,Client 025,Aviation,Northeast,6537.69,75.4
+2025-01-01,V1022,Beacon Financial Services,SME,2025-05-01,1,Client 018,Aviation,Southeast,29297.51,87.4
+2025-01-01,V1022,Beacon Financial Services,SME,2026-01-01,1,Client 006,Aviation,Southeast,21650.68,79.8
+2025-01-01,V1024,Momentum Facility Services,SME,2026-05-16,1,Client 018,Finance,Southeast,42713.26,87.7
+2025-01-01,V1025,Crestline Consulting,MBE,2026-05-16,1,Client 010,Healthcare,Southeast,789.37,91.6
+2025-01-01,V1025,Crestline Consulting,MBE,2025-05-01,1,Client 013,Healthcare,Southeast,4696.39,93.3
+2025-01-01,V1025,Crestline Consulting,MBE,2025-07-20,1,Client 022,Healthcare,Southeast,14241.02,87.9
+2025-01-01,V1027,Northgate Industrial,MBE,2024-12-02,0,Client 008,Finance,Southeast,8843.85,90.9
+2025-01-01,V1028,Argus Health Products,WBE,2025-03-02,1,Client 018,Manufacturing,West,8690.54,81.0
+2025-01-01,V1028,Argus Health Products,WBE,2024-12-02,0,Client 008,Manufacturing,West,23751.09,94.3
+2025-01-01,V1028,Argus Health Products,WBE,2024-12-02,0,Client 019,Manufacturing,West,11091.55,89.1
+2025-01-01,V1029,Pioneer Fabricators,DOBE,2024-12-02,0,Client 008,Finance,Southeast,39944.81,86.4
+2025-02-01,V1002,BlueRiver Logistics,MBE,2026-06-16,1,Client 009,Healthcare,Southwest,9561.53,82.4
+2025-02-01,V1003,Novaline Systems,SME,2026-02-01,1,Client 005,Healthcare,West,37833.63,82.7
+2025-02-01,V1003,Novaline Systems,SME,2025-08-20,1,Client 024,Healthcare,West,16862.96,83.1
+2025-02-01,V1003,Novaline Systems,SME,2025-04-02,1,Client 019,Healthcare,West,12390.8,82.7
+2025-02-01,V1006,Meridian Aviation Parts,SME,2025-08-20,1,Client 022,Manufacturing,Southeast,14893.79,88.2
+2025-02-01,V1007,Union Fabrication,WBE,2025-01-02,0,Client 015,Finance,West,7667.3,96.2
+2025-02-01,V1007,Union Fabrication,WBE,2026-06-16,1,Client 024,Finance,West,2527.67,84.8
+2025-02-01,V1008,Solstice Consulting,MBE,2026-06-16,1,Client 004,Manufacturing,Southeast,18090.19,81.5
+2025-02-01,V1008,Solstice Consulting,MBE,2025-06-01,1,Client 002,Manufacturing,Southeast,14543.94,87.4
+2025-02-01,V1008,Solstice Consulting,MBE,2025-01-02,0,Client 013,Manufacturing,Southeast,21334.56,84.9
+2025-02-01,V1009,Ironclad Materials,VOB,2025-08-20,1,Client 018,Aviation,Midwest,35134.82,91.0
+2025-02-01,V1010,Harbor Tech Solutions,WBE,2025-08-20,1,Client 009,Healthcare,Midwest,8743.46,96.1
+2025-02-01,V1011,Redwood Facilities Group,MBE,2026-02-01,1,Client 015,Healthcare,West,25098.71,100.0
+2025-02-01,V1012,Falcon Aerospace Supply,VOB,2025-04-02,1,Client 018,Finance,Midwest,11433.7,92.4
+2025-02-01,V1012,Falcon Aerospace Supply,VOB,2025-04-02,1,Client 001,Finance,Midwest,18055.38,81.0
+2025-02-01,V1012,Falcon Aerospace Supply,VOB,2025-08-20,1,Client 003,Finance,Midwest,16912.69,82.1
+2025-02-01,V1013,Brightpath Staffing,MBE,2025-01-02,0,Client 013,Healthcare,West,6830.54,88.8
+2025-02-01,V1014,Continental Machine Works,DOBE,2025-06-01,1,Client 013,Finance,Northeast,25644.01,83.7
+2025-02-01,V1017,TrueNorth Manufacturing,VOB,2026-06-16,1,Client 024,Aviation,Northeast,8892.07,82.4
+2025-02-01,V1017,TrueNorth Manufacturing,VOB,2025-08-20,1,Client 018,Aviation,Northeast,12784.07,89.4
+2025-02-01,V1017,TrueNorth Manufacturing,VOB,2025-04-02,1,Client 022,Aviation,Northeast,19755.01,95.5
+2025-02-01,V1018,Coastal Medical Supply,MBE,2026-02-01,1,Client 002,Finance,West,13117.5,83.4
+2025-02-01,V1019,Granite Industrial Services,DOBE,2025-06-01,1,Client 024,Aviation,Midwest,20202.51,91.3
+2025-02-01,V1020,Zenith Airparts,VOB,2025-01-02,0,Client 016,Aviation,Midwest,38378.39,78.1
+2025-02-01,V1020,Zenith Airparts,VOB,2026-02-01,1,Client 017,Aviation,Midwest,20072.22,87.8
+2025-02-01,V1020,Zenith Airparts,VOB,2025-01-02,0,Client 006,Aviation,Midwest,19738.96,91.8
+2025-02-01,V1022,Beacon Financial Services,SME,2025-04-02,1,Client 022,Aviation,Southeast,20667.53,79.3
+2025-02-01,V1023,Elevate Construction Supply,DOBE,2025-01-02,0,Client 008,Finance,West,19042.81,75.3
+2025-02-01,V1023,Elevate Construction Supply,DOBE,2026-02-01,1,Client 019,Finance,West,5996.45,90.3
+2025-02-01,V1023,Elevate Construction Supply,DOBE,2025-01-02,0,Client 020,Finance,West,9152.64,76.0
+2025-02-01,V1024,Momentum Facility Services,SME,2025-06-01,1,Client 019,Finance,Southeast,31648.42,88.3
+2025-02-01,V1024,Momentum Facility Services,SME,2025-04-02,1,Client 017,Finance,Southeast,8230.24,86.2
+2025-02-01,V1024,Momentum Facility Services,SME,2026-06-16,1,Client 011,Finance,Southeast,8064.22,78.5
+2025-02-01,V1025,Crestline Consulting,MBE,2025-08-20,1,Client 009,Healthcare,Southeast,30086.18,83.1
+2025-02-01,V1026,Waypoint Logistics,VOB,2025-01-02,0,Client 010,Finance,West,16960.38,96.6
+2025-02-01,V1026,Waypoint Logistics,VOB,2025-01-02,0,Client 015,Finance,West,4761.59,84.7
+2025-02-01,V1026,Waypoint Logistics,VOB,2025-08-20,1,Client 011,Finance,West,6772.74,88.9
+2025-02-01,V1027,Northgate Industrial,MBE,2025-04-02,1,Client 004,Finance,Southeast,15319.39,90.9
+2025-02-01,V1027,Northgate Industrial,MBE,2026-02-01,1,Client 003,Finance,Southeast,8390.57,72.9
+2025-02-01,V1027,Northgate Industrial,MBE,2025-06-01,1,Client 018,Finance,Southeast,7791.95,80.9
+2025-02-01,V1028,Argus Health Products,WBE,2025-06-01,1,Client 003,Manufacturing,West,19020.73,88.1
+2025-02-01,V1028,Argus Health Products,WBE,2025-06-01,1,Client 008,Manufacturing,West,19802.91,78.5
+2025-02-01,V1029,Pioneer Fabricators,DOBE,2026-06-16,1,Client 023,Finance,Southeast,17525.97,75.9
+2025-02-01,V1029,Pioneer Fabricators,DOBE,2026-02-01,1,Client 010,Finance,Southeast,29973.42,93.5
+2025-02-01,V1029,Pioneer Fabricators,DOBE,2025-01-02,0,Client 020,Finance,Southeast,4915.69,77.5
+2025-03-01,V1000,Summit Supply Co,MBE,2025-04-30,1,Client 010,Finance,Northeast,20828.56,87.1
+2025-03-01,V1000,Summit Supply Co,MBE,2025-06-29,1,Client 022,Finance,Northeast,23962.36,100.0
+2025-03-01,V1000,Summit Supply Co,MBE,2025-01-30,0,Client 004,Finance,Northeast,39053.83,92.9
+2025-03-01,V1002,BlueRiver Logistics,MBE,2025-06-29,1,Client 009,Healthcare,Southwest,13213.88,91.1
+2025-03-01,V1003,Novaline Systems,SME,2026-07-14,1,Client 011,Healthcare,West,18911.97,78.2
+2025-03-01,V1003,Novaline Systems,SME,2025-06-29,1,Client 007,Healthcare,West,64360.33,70.1
+2025-03-01,V1003,Novaline Systems,SME,2026-03-01,1,Client 022,Healthcare,West,12200.91,85.6
+2025-03-01,V1004,Cascade Manufacturing,MBE,2026-07-14,1,Client 003,Aviation,Northeast,11639.48,93.7
+2025-03-01,V1005,Pinnacle Health Supply,WBE,2025-06-29,1,Client 002,Healthcare,Southwest,44218.23,86.0
+2025-03-01,V1005,Pinnacle Health Supply,WBE,2025-04-30,1,Client 001,Healthcare,Southwest,9324.42,86.7
+2025-03-01,V1006,Meridian Aviation Parts,SME,2025-09-17,1,Client 006,Manufacturing,Southeast,66625.58,99.7
+2025-03-01,V1006,Meridian Aviation Parts,SME,2026-03-01,1,Client 024,Manufacturing,Southeast,2175.42,86.5
+2025-03-01,V1007,Union Fabrication,WBE,2026-07-14,1,Client 001,Finance,West,11905.6,71.6
+2025-03-01,V1007,Union Fabrication,WBE,2025-04-30,1,Client 004,Finance,West,23805.95,91.9
+2025-03-01,V1007,Union Fabrication,WBE,2026-03-01,1,Client 003,Finance,West,13016.04,82.5
+2025-03-01,V1008,Solstice Consulting,MBE,2025-04-30,1,Client 019,Manufacturing,Southeast,49201.61,88.2
+2025-03-01,V1008,Solstice Consulting,MBE,2025-09-17,1,Client 018,Manufacturing,Southeast,21879.52,98.2
+2025-03-01,V1009,Ironclad Materials,VOB,2025-06-29,1,Client 012,Aviation,Midwest,4187.04,81.1
+2025-03-01,V1009,Ironclad Materials,VOB,2025-04-30,1,Client 002,Aviation,Midwest,14046.75,100.0
+2025-03-01,V1010,Harbor Tech Solutions,WBE,2026-03-01,1,Client 004,Healthcare,Midwest,153.84,76.8
+2025-03-01,V1010,Harbor Tech Solutions,WBE,2025-09-17,1,Client 012,Healthcare,Midwest,2271.8,74.6
+2025-03-01,V1010,Harbor Tech Solutions,WBE,2026-03-01,1,Client 025,Healthcare,Midwest,11949.19,86.0
+2025-03-01,V1011,Redwood Facilities Group,MBE,2025-04-30,1,Client 006,Healthcare,West,17529.76,100.0
+2025-03-01,V1013,Brightpath Staffing,MBE,2026-07-14,1,Client 011,Healthcare,West,7390.42,88.7
+2025-03-01,V1013,Brightpath Staffing,MBE,2025-04-30,1,Client 014,Healthcare,West,14431.46,85.5
+2025-03-01,V1013,Brightpath Staffing,MBE,2025-06-29,1,Client 022,Healthcare,West,18234.86,90.3
+2025-03-01,V1014,Continental Machine Works,DOBE,2025-09-17,1,Client 004,Finance,Northeast,10314.49,100.0
+2025-03-01,V1014,Continental Machine Works,DOBE,2025-04-30,1,Client 013,Finance,Northeast,15001.86,89.7
+2025-03-01,V1014,Continental Machine Works,DOBE,2025-04-30,1,Client 002,Finance,Northeast,11500.43,86.7
+2025-03-01,V1016,Silverline Logistics,MBE,2026-07-14,1,Client 008,Aviation,Northeast,10545.08,91.8
+2025-03-01,V1016,Silverline Logistics,MBE,2025-04-30,1,Client 001,Aviation,Northeast,31435.74,96.6
+2025-03-01,V1017,TrueNorth Manufacturing,VOB,2025-06-29,1,Client 003,Aviation,Northeast,28908.5,90.0
+2025-03-01,V1017,TrueNorth Manufacturing,VOB,2025-06-29,1,Client 025,Aviation,Northeast,24538.56,79.3
+2025-03-01,V1018,Coastal Medical Supply,MBE,2025-06-29,1,Client 022,Finance,West,16544.3,85.9
+2025-03-01,V1018,Coastal Medical Supply,MBE,2025-01-30,0,Client 018,Finance,West,9841.63,94.3
+2025-03-01,V1019,Granite Industrial Services,DOBE,2025-06-29,1,Client 006,Aviation,Midwest,14262.96,93.8
+2025-03-01,V1019,Granite Industrial Services,DOBE,2025-01-30,0,Client 019,Aviation,Midwest,12266.76,87.1
+2025-03-01,V1020,Zenith Airparts,VOB,2025-06-29,1,Client 012,Aviation,Midwest,38508.26,85.2
+2025-03-01,V1020,Zenith Airparts,VOB,2025-09-17,1,Client 024,Aviation,Midwest,14026.76,91.8
+2025-03-01,V1021,Fusion Metalworks,VOB,2025-04-30,1,Client 004,Aviation,Northeast,21109.62,84.0
+2025-03-01,V1021,Fusion Metalworks,VOB,2025-06-29,1,Client 013,Aviation,Northeast,52991.57,93.5
+2025-03-01,V1021,Fusion Metalworks,VOB,2025-01-30,0,Client 019,Aviation,Northeast,7217.47,75.3
+2025-03-01,V1022,Beacon Financial Services,SME,2026-03-01,1,Client 017,Aviation,Southeast,28170.04,90.3
+2025-03-01,V1023,Elevate Construction Supply,DOBE,2025-06-29,1,Client 024,Finance,West,16649.86,77.8
+2025-03-01,V1023,Elevate Construction Supply,DOBE,2025-09-17,1,Client 022,Finance,West,49327.0,89.9
+2025-03-01,V1023,Elevate Construction Supply,DOBE,2025-01-30,0,Client 007,Finance,West,39639.33,87.0
+2025-03-01,V1026,Waypoint Logistics,VOB,2026-03-01,1,Client 004,Finance,West,11305.64,89.5
+2025-03-01,V1026,Waypoint Logistics,VOB,2025-06-29,1,Client 024,Finance,West,29975.13,73.4
+2025-03-01,V1026,Waypoint Logistics,VOB,2026-07-14,1,Client 010,Finance,West,4755.98,79.7
+2025-03-01,V1027,Northgate Industrial,MBE,2026-03-01,1,Client 023,Finance,Southeast,39687.96,87.5
+2025-03-01,V1027,Northgate Industrial,MBE,2025-04-30,1,Client 010,Finance,Southeast,42255.01,82.6
+2025-03-01,V1028,Argus Health Products,WBE,2025-04-30,1,Client 013,Manufacturing,West,16743.96,87.6
+2025-03-01,V1028,Argus Health Products,WBE,2026-03-01,1,Client 022,Manufacturing,West,8542.91,88.9
+2025-03-01,V1028,Argus Health Products,WBE,2026-03-01,1,Client 024,Manufacturing,West,17916.68,90.5
+2025-03-01,V1029,Pioneer Fabricators,DOBE,2025-09-17,1,Client 001,Finance,Southeast,12333.63,85.6
+2025-03-01,V1029,Pioneer Fabricators,DOBE,2026-03-01,1,Client 010,Finance,Southeast,32027.45,85.8
+2025-03-01,V1029,Pioneer Fabricators,DOBE,2026-03-01,1,Client 007,Finance,Southeast,8974.75,100.0
+2025-04-01,V1000,Summit Supply Co,MBE,2025-05-31,1,Client 015,Finance,Northeast,22306.52,100.0
+2025-04-01,V1000,Summit Supply Co,MBE,2026-04-01,1,Client 022,Finance,Northeast,9020.66,84.1
+2025-04-01,V1001,Vertex Industrial,WBE,2025-07-30,1,Client 006,Aviation,Southeast,31891.61,78.3
+2025-04-01,V1001,Vertex Industrial,WBE,2026-04-01,1,Client 022,Aviation,Southeast,10454.94,93.3
+2025-04-01,V1001,Vertex Industrial,WBE,2026-08-14,1,Client 003,Aviation,Southeast,2924.71,87.7
+2025-04-01,V1002,BlueRiver Logistics,MBE,2025-05-31,1,Client 003,Healthcare,Southwest,52041.34,89.6
+2025-04-01,V1002,BlueRiver Logistics,MBE,2026-08-14,1,Client 025,Healthcare,Southwest,31782.67,74.4
+2025-04-01,V1003,Novaline Systems,SME,2025-03-02,0,Client 005,Healthcare,West,50881.74,84.4
+2025-04-01,V1004,Cascade Manufacturing,MBE,2025-03-02,0,Client 020,Aviation,Northeast,13563.17,71.3
+2025-04-01,V1004,Cascade Manufacturing,MBE,2025-10-18,1,Client 025,Aviation,Northeast,39552.04,87.2
+2025-04-01,V1005,Pinnacle Health Supply,WBE,2026-08-14,1,Client 019,Healthcare,Southwest,20465.62,72.2
+2025-04-01,V1005,Pinnacle Health Supply,WBE,2025-10-18,1,Client 007,Healthcare,Southwest,10455.1,87.1
+2025-04-01,V1005,Pinnacle Health Supply,WBE,2025-10-18,1,Client 023,Healthcare,Southwest,20798.76,85.0
+2025-04-01,V1006,Meridian Aviation Parts,SME,2026-08-14,1,Client 021,Manufacturing,Southeast,17384.34,82.5
+2025-04-01,V1007,Union Fabrication,WBE,2025-10-18,1,Client 025,Finance,West,3810.54,86.0
+2025-04-01,V1008,Solstice Consulting,MBE,2026-04-01,1,Client 017,Manufacturing,Southeast,23952.87,93.5
+2025-04-01,V1008,Solstice Consulting,MBE,2025-05-31,1,Client 015,Manufacturing,Southeast,43774.14,87.7
+2025-04-01,V1008,Solstice Consulting,MBE,2025-03-02,0,Client 002,Manufacturing,Southeast,9174.75,85.9
+2025-04-01,V1009,Ironclad Materials,VOB,2026-04-01,1,Client 022,Aviation,Midwest,44004.86,100.0
+2025-04-01,V1009,Ironclad Materials,VOB,2026-04-01,1,Client 017,Aviation,Midwest,48947.5,76.8
+2025-04-01,V1010,Harbor Tech Solutions,WBE,2026-04-01,1,Client 020,Healthcare,Midwest,13703.6,90.2
+2025-04-01,V1010,Harbor Tech Solutions,WBE,2025-10-18,1,Client 024,Healthcare,Midwest,39874.09,81.5
+2025-04-01,V1012,Falcon Aerospace Supply,VOB,2025-10-18,1,Client 024,Finance,Midwest,12932.6,93.5
+2025-04-01,V1013,Brightpath Staffing,MBE,2025-07-30,1,Client 021,Healthcare,West,3126.19,92.1
+2025-04-01,V1015,Apex Diversity Partners,SME,2025-03-02,0,Client 008,Aviation,Midwest,15170.19,97.0
+2025-04-01,V1015,Apex Diversity Partners,SME,2026-08-14,1,Client 009,Aviation,Midwest,17727.66,92.9
+2025-04-01,V1015,Apex Diversity Partners,SME,2025-07-30,1,Client 015,Aviation,Midwest,21203.32,71.4
+2025-04-01,V1016,Silverline Logistics,MBE,2025-03-02,0,Client 011,Aviation,Northeast,16126.18,85.0
+2025-04-01,V1016,Silverline Logistics,MBE,2025-05-31,1,Client 018,Aviation,Northeast,22260.39,74.6
+2025-04-01,V1017,TrueNorth Manufacturing,VOB,2026-08-14,1,Client 023,Aviation,Northeast,26453.18,76.2
+2025-04-01,V1017,TrueNorth Manufacturing,VOB,2025-05-31,1,Client 005,Aviation,Northeast,23538.37,84.5
+2025-04-01,V1018,Coastal Medical Supply,MBE,2025-10-18,1,Client 011,Finance,West,31494.24,81.4
+2025-04-01,V1018,Coastal Medical Supply,MBE,2025-10-18,1,Client 018,Finance,West,11603.51,80.8
+2025-04-01,V1019,Granite Industrial Services,DOBE,2026-04-01,1,Client 013,Aviation,Midwest,8814.9,73.5
+2025-04-01,V1019,Granite Industrial Services,DOBE,2026-08-14,1,Client 025,Aviation,Midwest,14553.19,100.0
+2025-04-01,V1020,Zenith Airparts,VOB,2025-07-30,1,Client 013,Aviation,Midwest,17237.35,89.1
+2025-04-01,V1020,Zenith Airparts,VOB,2025-07-30,1,Client 016,Aviation,Midwest,36392.53,84.1
+2025-04-01,V1020,Zenith Airparts,VOB,2025-10-18,1,Client 001,Aviation,Midwest,14226.73,79.1
+2025-04-01,V1023,Elevate Construction Supply,DOBE,2025-05-31,1,Client 024,Finance,West,24980.74,82.8
+2025-04-01,V1023,Elevate Construction Supply,DOBE,2025-10-18,1,Client 018,Finance,West,1415.43,80.0
+2025-04-01,V1023,Elevate Construction Supply,DOBE,2025-05-31,1,Client 020,Finance,West,1691.06,89.6
+2025-04-01,V1024,Momentum Facility Services,SME,2025-07-30,1,Client 001,Finance,Southeast,20925.22,77.2
+2025-04-01,V1024,Momentum Facility Services,SME,2026-08-14,1,Client 013,Finance,Southeast,17796.42,72.1
+2025-04-01,V1025,Crestline Consulting,MBE,2025-10-18,1,Client 024,Healthcare,Southeast,19428.11,83.5
+2025-04-01,V1025,Crestline Consulting,MBE,2025-05-31,1,Client 006,Healthcare,Southeast,16219.17,79.8
+2025-04-01,V1027,Northgate Industrial,MBE,2025-03-02,0,Client 019,Finance,Southeast,6701.49,86.7
+2025-04-01,V1027,Northgate Industrial,MBE,2025-03-02,0,Client 022,Finance,Southeast,30668.18,84.9
+2025-04-01,V1028,Argus Health Products,WBE,2025-05-31,1,Client 015,Manufacturing,West,42359.43,100.0
+2025-04-01,V1029,Pioneer Fabricators,DOBE,2025-10-18,1,Client 011,Finance,Southeast,32617.64,76.7
+2025-04-01,V1029,Pioneer Fabricators,DOBE,2025-07-30,1,Client 007,Finance,Southeast,14566.53,96.2
+2025-05-01,V1000,Summit Supply Co,MBE,2025-11-17,1,Client 009,Finance,Northeast,5293.61,73.8
+2025-05-01,V1000,Summit Supply Co,MBE,2025-08-29,1,Client 025,Finance,Northeast,24716.8,81.3
+2025-05-01,V1002,BlueRiver Logistics,MBE,2025-06-30,1,Client 018,Healthcare,Southwest,10218.33,80.3
+2025-05-01,V1002,BlueRiver Logistics,MBE,2026-09-13,1,Client 002,Healthcare,Southwest,8258.16,65.0
+2025-05-01,V1002,BlueRiver Logistics,MBE,2025-04-01,0,Client 012,Healthcare,Southwest,26703.09,83.1
+2025-05-01,V1004,Cascade Manufacturing,MBE,2025-06-30,1,Client 008,Aviation,Northeast,7928.92,86.9
+2025-05-01,V1006,Meridian Aviation Parts,SME,2025-11-17,1,Client 005,Manufacturing,Southeast,20393.53,89.0
+2025-05-01,V1007,Union Fabrication,WBE,2025-08-29,1,Client 007,Finance,West,7418.58,100.0
+2025-05-01,V1007,Union Fabrication,WBE,2025-08-29,1,Client 015,Finance,West,45621.26,79.7
+2025-05-01,V1007,Union Fabrication,WBE,2025-06-30,1,Client 023,Finance,West,24838.35,87.2
+2025-05-01,V1008,Solstice Consulting,MBE,2025-06-30,1,Client 023,Manufacturing,Southeast,610.77,87.1
+2025-05-01,V1008,Solstice Consulting,MBE,2025-08-29,1,Client 004,Manufacturing,Southeast,7953.15,75.9
+2025-05-01,V1008,Solstice Consulting,MBE,2025-04-01,0,Client 025,Manufacturing,Southeast,20312.0,79.8
+2025-05-01,V1009,Ironclad Materials,VOB,2025-11-17,1,Client 019,Aviation,Midwest,17389.6,80.2
+2025-05-01,V1009,Ironclad Materials,VOB,2025-11-17,1,Client 022,Aviation,Midwest,27989.46,89.2
+2025-05-01,V1011,Redwood Facilities Group,MBE,2025-04-01,0,Client 023,Healthcare,West,41491.27,70.8
+2025-05-01,V1011,Redwood Facilities Group,MBE,2026-09-13,1,Client 021,Healthcare,West,7032.76,88.0
+2025-05-01,V1011,Redwood Facilities Group,MBE,2025-08-29,1,Client 008,Healthcare,West,10413.83,88.9
+2025-05-01,V1013,Brightpath Staffing,MBE,2025-04-01,0,Client 019,Healthcare,West,44682.9,87.7
+2025-05-01,V1014,Continental Machine Works,DOBE,2025-04-01,0,Client 022,Finance,Northeast,12227.3,82.5
+2025-05-01,V1014,Continental Machine Works,DOBE,2026-05-01,1,Client 012,Finance,Northeast,13174.23,87.3
+2025-05-01,V1015,Apex Diversity Partners,SME,2025-11-17,1,Client 014,Aviation,Midwest,57422.68,82.8
+2025-05-01,V1016,Silverline Logistics,MBE,2026-09-13,1,Client 021,Aviation,Northeast,31353.76,68.7
+2025-05-01,V1016,Silverline Logistics,MBE,2025-06-30,1,Client 015,Aviation,Northeast,7203.0,93.4
+2025-05-01,V1017,TrueNorth Manufacturing,VOB,2026-05-01,1,Client 017,Aviation,Northeast,8415.74,87.6
+2025-05-01,V1017,TrueNorth Manufacturing,VOB,2026-05-01,1,Client 021,Aviation,Northeast,14247.31,92.1
+2025-05-01,V1017,TrueNorth Manufacturing,VOB,2025-11-17,1,Client 009,Aviation,Northeast,18003.42,73.2
+2025-05-01,V1018,Coastal Medical Supply,MBE,2025-06-30,1,Client 019,Finance,West,35153.55,89.1
+2025-05-01,V1018,Coastal Medical Supply,MBE,2025-04-01,0,Client 009,Finance,West,37278.5,86.5
+2025-05-01,V1018,Coastal Medical Supply,MBE,2025-08-29,1,Client 011,Finance,West,20040.78,76.3
+2025-05-01,V1020,Zenith Airparts,VOB,2026-09-13,1,Client 019,Aviation,Midwest,8623.3,85.6
+2025-05-01,V1020,Zenith Airparts,VOB,2025-11-17,1,Client 020,Aviation,Midwest,11584.44,82.2
+2025-05-01,V1021,Fusion Metalworks,VOB,2025-11-17,1,Client 011,Aviation,Northeast,29196.85,82.8
+2025-05-01,V1021,Fusion Metalworks,VOB,2025-06-30,1,Client 006,Aviation,Northeast,7409.96,81.6
+2025-05-01,V1022,Beacon Financial Services,SME,2026-05-01,1,Client 011,Aviation,Southeast,10879.55,92.0
+2025-05-01,V1022,Beacon Financial Services,SME,2026-09-13,1,Client 009,Aviation,Southeast,39590.47,71.9
+2025-05-01,V1024,Momentum Facility Services,SME,2026-09-13,1,Client 007,Finance,Southeast,20497.07,70.8
+2025-05-01,V1024,Momentum Facility Services,SME,2025-11-17,1,Client 003,Finance,Southeast,42727.24,86.4
+2025-05-01,V1024,Momentum Facility Services,SME,2025-11-17,1,Client 008,Finance,Southeast,74778.99,85.9
+2025-05-01,V1025,Crestline Consulting,MBE,2025-11-17,1,Client 023,Healthcare,Southeast,27397.75,86.7
+2025-05-01,V1026,Waypoint Logistics,VOB,2025-04-01,0,Client 015,Finance,West,22843.9,100.0
+2025-05-01,V1026,Waypoint Logistics,VOB,2025-08-29,1,Client 001,Finance,West,39368.39,86.5
+2025-05-01,V1027,Northgate Industrial,MBE,2026-05-01,1,Client 008,Finance,Southeast,18061.11,77.1
+2025-05-01,V1027,Northgate Industrial,MBE,2025-08-29,1,Client 010,Finance,Southeast,15300.26,100.0
+2025-05-01,V1027,Northgate Industrial,MBE,2025-11-17,1,Client 022,Finance,Southeast,24101.37,83.7
+2025-05-01,V1028,Argus Health Products,WBE,2026-05-01,1,Client 014,Manufacturing,West,12078.63,91.8
+2025-05-01,V1028,Argus Health Products,WBE,2025-08-29,1,Client 024,Manufacturing,West,5406.51,74.6
+2025-05-01,V1029,Pioneer Fabricators,DOBE,2025-08-29,1,Client 009,Finance,Southeast,4268.42,82.9
+2025-05-01,V1029,Pioneer Fabricators,DOBE,2025-06-30,1,Client 010,Finance,Southeast,13955.81,82.8
+2025-06-01,V1000,Summit Supply Co,MBE,2025-05-02,0,Client 011,Finance,Northeast,28760.03,83.7
+2025-06-01,V1001,Vertex Industrial,WBE,2025-12-18,1,Client 006,Aviation,Southeast,51333.46,94.0
+2025-06-01,V1001,Vertex Industrial,WBE,2025-09-29,1,Client 007,Aviation,Southeast,7139.52,89.1
+2025-06-01,V1001,Vertex Industrial,WBE,2026-10-14,1,Client 024,Aviation,Southeast,13705.81,76.1
+2025-06-01,V1002,BlueRiver Logistics,MBE,2025-07-31,1,Client 020,Healthcare,Southwest,16808.6,86.3
+2025-06-01,V1002,BlueRiver Logistics,MBE,2025-09-29,1,Client 010,Healthcare,Southwest,16971.86,84.8
+2025-06-01,V1002,BlueRiver Logistics,MBE,2025-07-31,1,Client 004,Healthcare,Southwest,15427.04,86.2
+2025-06-01,V1003,Novaline Systems,SME,2026-06-01,1,Client 001,Healthcare,West,16400.46,80.7
+2025-06-01,V1003,Novaline Systems,SME,2025-07-31,1,Client 023,Healthcare,West,40312.18,63.7
+2025-06-01,V1004,Cascade Manufacturing,MBE,2025-09-29,1,Client 018,Aviation,Northeast,37252.52,68.4
+2025-06-01,V1005,Pinnacle Health Supply,WBE,2025-12-18,1,Client 021,Healthcare,Southwest,20621.97,83.0
+2025-06-01,V1006,Meridian Aviation Parts,SME,2025-09-29,1,Client 019,Manufacturing,Southeast,4755.72,78.8
+2025-06-01,V1007,Union Fabrication,WBE,2025-05-02,0,Client 011,Finance,West,12731.4,84.4
+2025-06-01,V1007,Union Fabrication,WBE,2025-09-29,1,Client 006,Finance,West,31131.76,95.2
+2025-06-01,V1009,Ironclad Materials,VOB,2025-12-18,1,Client 013,Aviation,Midwest,9541.13,79.2
+2025-06-01,V1010,Harbor Tech Solutions,WBE,2025-07-31,1,Client 022,Healthcare,Midwest,11140.48,88.9
+2025-06-01,V1010,Harbor Tech Solutions,WBE,2026-06-01,1,Client 002,Healthcare,Midwest,12846.31,83.2
+2025-06-01,V1010,Harbor Tech Solutions,WBE,2025-09-29,1,Client 005,Healthcare,Midwest,27146.27,88.6
+2025-06-01,V1011,Redwood Facilities Group,MBE,2026-06-01,1,Client 004,Healthcare,West,46265.34,76.9
+2025-06-01,V1013,Brightpath Staffing,MBE,2025-12-18,1,Client 008,Healthcare,West,25199.18,82.5
+2025-06-01,V1013,Brightpath Staffing,MBE,2025-12-18,1,Client 025,Healthcare,West,3496.46,99.1
+2025-06-01,V1013,Brightpath Staffing,MBE,2025-12-18,1,Client 017,Healthcare,West,11157.29,93.4
+2025-06-01,V1014,Continental Machine Works,DOBE,2026-06-01,1,Client 014,Finance,Northeast,38728.59,71.0
+2025-06-01,V1014,Continental Machine Works,DOBE,2025-05-02,0,Client 010,Finance,Northeast,5461.73,99.0
+2025-06-01,V1014,Continental Machine Works,DOBE,2026-06-01,1,Client 019,Finance,Northeast,10950.79,92.8
+2025-06-01,V1016,Silverline Logistics,MBE,2025-07-31,1,Client 021,Aviation,Northeast,16422.19,82.1
+2025-06-01,V1017,TrueNorth Manufacturing,VOB,2025-07-31,1,Client 006,Aviation,Northeast,16109.46,100.0
+2025-06-01,V1018,Coastal Medical Supply,MBE,2025-05-02,0,Client 006,Finance,West,26496.22,86.4
+2025-06-01,V1019,Granite Industrial Services,DOBE,2025-05-02,0,Client 020,Aviation,Midwest,14637.71,74.7
+2025-06-01,V1019,Granite Industrial Services,DOBE,2025-07-31,1,Client 016,Aviation,Midwest,18070.43,86.6
+2025-06-01,V1019,Granite Industrial Services,DOBE,2025-09-29,1,Client 010,Aviation,Midwest,7412.75,100.0
+2025-06-01,V1020,Zenith Airparts,VOB,2025-07-31,1,Client 015,Aviation,Midwest,27258.72,87.0
+2025-06-01,V1020,Zenith Airparts,VOB,2025-09-29,1,Client 003,Aviation,Midwest,32012.07,77.0
+2025-06-01,V1020,Zenith Airparts,VOB,2026-10-14,1,Client 022,Aviation,Midwest,23888.41,70.3
+2025-06-01,V1021,Fusion Metalworks,VOB,2025-05-02,0,Client 014,Aviation,Northeast,5466.69,82.2
+2025-06-01,V1022,Beacon Financial Services,SME,2025-05-02,0,Client 005,Aviation,Southeast,19361.73,80.1
+2025-06-01,V1022,Beacon Financial Services,SME,2025-07-31,1,Client 009,Aviation,Southeast,4760.23,95.7
+2025-06-01,V1022,Beacon Financial Services,SME,2025-09-29,1,Client 003,Aviation,Southeast,8107.54,77.4
+2025-06-01,V1023,Elevate Construction Supply,DOBE,2025-12-18,1,Client 010,Finance,West,74407.3,85.8
+2025-06-01,V1023,Elevate Construction Supply,DOBE,2026-10-14,1,Client 015,Finance,West,19099.06,80.4
+2025-06-01,V1023,Elevate Construction Supply,DOBE,2025-09-29,1,Client 004,Finance,West,18345.38,71.5
+2025-06-01,V1024,Momentum Facility Services,SME,2025-12-18,1,Client 017,Finance,Southeast,32095.89,84.7
+2025-06-01,V1024,Momentum Facility Services,SME,2025-12-18,1,Client 018,Finance,Southeast,49336.31,72.5
+2025-06-01,V1025,Crestline Consulting,MBE,2026-10-14,1,Client 014,Healthcare,Southeast,12342.03,90.1
+2025-06-01,V1026,Waypoint Logistics,VOB,2025-07-31,1,Client 001,Finance,West,31820.88,70.9
+2025-06-01,V1026,Waypoint Logistics,VOB,2026-10-14,1,Client 003,Finance,West,35161.22,84.4
+2025-06-01,V1028,Argus Health Products,WBE,2026-10-14,1,Client 025,Manufacturing,West,25646.03,93.5
+2025-07-01,V1000,Summit Supply Co,MBE,2026-07-01,1,Client 016,Finance,Northeast,18314.05,89.5
+2025-07-01,V1001,Vertex Industrial,WBE,2026-01-17,1,Client 006,Aviation,Southeast,33901.91,81.4
+2025-07-01,V1001,Vertex Industrial,WBE,2026-11-13,1,Client 019,Aviation,Southeast,25846.58,88.4
+2025-07-01,V1004,Cascade Manufacturing,MBE,2025-06-01,0,Client 011,Aviation,Northeast,19485.39,91.5
+2025-07-01,V1004,Cascade Manufacturing,MBE,2025-08-30,1,Client 022,Aviation,Northeast,18500.17,76.4
+2025-07-01,V1005,Pinnacle Health Supply,WBE,2026-01-17,1,Client 016,Healthcare,Southwest,33362.3,94.0
+2025-07-01,V1005,Pinnacle Health Supply,WBE,2026-07-01,1,Client 010,Healthcare,Southwest,15830.45,92.5
+2025-07-01,V1005,Pinnacle Health Supply,WBE,2025-06-01,0,Client 022,Healthcare,Southwest,11219.92,73.8
+2025-07-01,V1006,Meridian Aviation Parts,SME,2025-06-01,0,Client 009,Manufacturing,Southeast,23744.67,86.8
+2025-07-01,V1006,Meridian Aviation Parts,SME,2026-01-17,1,Client 011,Manufacturing,Southeast,11573.97,82.9
+2025-07-01,V1009,Ironclad Materials,VOB,2025-08-30,1,Client 015,Aviation,Midwest,18515.08,96.6
+2025-07-01,V1009,Ironclad Materials,VOB,2026-07-01,1,Client 014,Aviation,Midwest,19334.66,91.9
+2025-07-01,V1009,Ironclad Materials,VOB,2025-10-29,1,Client 002,Aviation,Midwest,20526.11,85.7
+2025-07-01,V1010,Harbor Tech Solutions,WBE,2025-06-01,0,Client 021,Healthcare,Midwest,33602.36,94.8
+2025-07-01,V1010,Harbor Tech Solutions,WBE,2025-08-30,1,Client 015,Healthcare,Midwest,9719.65,100.0
+2025-07-01,V1011,Redwood Facilities Group,MBE,2026-01-17,1,Client 010,Healthcare,West,12721.71,71.5
+2025-07-01,V1013,Brightpath Staffing,MBE,2026-07-01,1,Client 021,Healthcare,West,3126.76,81.6
+2025-07-01,V1015,Apex Diversity Partners,SME,2026-07-01,1,Client 018,Aviation,Midwest,13567.83,77.0
+2025-07-01,V1015,Apex Diversity Partners,SME,2026-01-17,1,Client 001,Aviation,Midwest,6907.71,84.7
+2025-07-01,V1016,Silverline Logistics,MBE,2025-06-01,0,Client 015,Aviation,Northeast,19847.69,76.4
+2025-07-01,V1017,TrueNorth Manufacturing,VOB,2026-11-13,1,Client 016,Aviation,Northeast,26669.3,92.9
+2025-07-01,V1018,Coastal Medical Supply,MBE,2026-01-17,1,Client 009,Finance,West,14303.7,100.0
+2025-07-01,V1018,Coastal Medical Supply,MBE,2025-08-30,1,Client 014,Finance,West,9887.38,86.3
+2025-07-01,V1018,Coastal Medical Supply,MBE,2026-01-17,1,Client 016,Finance,West,23612.01,72.4
+2025-07-01,V1019,Granite Industrial Services,DOBE,2026-07-01,1,Client 007,Aviation,Midwest,17725.98,80.0
+2025-07-01,V1019,Granite Industrial Services,DOBE,2026-11-13,1,Client 020,Aviation,Midwest,10853.51,81.0
+2025-07-01,V1022,Beacon Financial Services,SME,2025-10-29,1,Client 011,Aviation,Southeast,14816.43,96.4
+2025-07-01,V1022,Beacon Financial Services,SME,2025-06-01,0,Client 017,Aviation,Southeast,10713.8,87.7
+2025-07-01,V1023,Elevate Construction Supply,DOBE,2026-01-17,1,Client 019,Finance,West,12582.13,86.6
+2025-07-01,V1023,Elevate Construction Supply,DOBE,2025-08-30,1,Client 022,Finance,West,4204.72,78.3
+2025-07-01,V1024,Momentum Facility Services,SME,2026-07-01,1,Client 012,Finance,Southeast,18907.65,80.1
+2025-07-01,V1024,Momentum Facility Services,SME,2026-07-01,1,Client 011,Finance,Southeast,12469.41,89.3
+2025-07-01,V1025,Crestline Consulting,MBE,2025-08-30,1,Client 007,Healthcare,Southeast,33957.49,83.6
+2025-07-01,V1025,Crestline Consulting,MBE,2026-07-01,1,Client 023,Healthcare,Southeast,8771.58,92.1
+2025-07-01,V1026,Waypoint Logistics,VOB,2026-11-13,1,Client 002,Finance,West,7611.84,80.9
+2025-07-01,V1026,Waypoint Logistics,VOB,2026-01-17,1,Client 011,Finance,West,19704.75,57.2
+2025-07-01,V1027,Northgate Industrial,MBE,2026-11-13,1,Client 013,Finance,Southeast,8210.52,81.1
+2025-07-01,V1027,Northgate Industrial,MBE,2025-08-30,1,Client 022,Finance,Southeast,33187.92,71.9
+2025-07-01,V1028,Argus Health Products,WBE,2026-07-01,1,Client 005,Manufacturing,West,23153.65,89.7
+2025-08-01,V1000,Summit Supply Co,MBE,2025-07-02,0,Client 015,Finance,Northeast,34453.17,88.2
+2025-08-01,V1001,Vertex Industrial,WBE,2025-09-30,1,Client 001,Aviation,Southeast,27214.86,93.5
+2025-08-01,V1001,Vertex Industrial,WBE,2026-02-17,1,Client 024,Aviation,Southeast,35669.86,79.8
+2025-08-01,V1004,Cascade Manufacturing,MBE,2026-12-14,1,Client 011,Aviation,Northeast,23429.05,83.7
+2025-08-01,V1004,Cascade Manufacturing,MBE,2026-02-17,1,Client 020,Aviation,Northeast,18669.39,79.5
+2025-08-01,V1005,Pinnacle Health Supply,WBE,2026-02-17,1,Client 022,Healthcare,Southwest,23650.67,85.2
+2025-08-01,V1005,Pinnacle Health Supply,WBE,2025-11-29,1,Client 018,Healthcare,Southwest,37933.4,91.5
+2025-08-01,V1006,Meridian Aviation Parts,SME,2026-08-01,1,Client 018,Manufacturing,Southeast,5012.86,91.0
+2025-08-01,V1006,Meridian Aviation Parts,SME,2025-07-02,0,Client 002,Manufacturing,Southeast,42706.38,86.7
+2025-08-01,V1007,Union Fabrication,WBE,2025-07-02,0,Client 010,Finance,West,20056.87,97.6
+2025-08-01,V1007,Union Fabrication,WBE,2026-02-17,1,Client 008,Finance,West,36482.09,73.5
+2025-08-01,V1007,Union Fabrication,WBE,2025-07-02,0,Client 024,Finance,West,11886.7,86.6
+2025-08-01,V1009,Ironclad Materials,VOB,2025-09-30,1,Client 015,Aviation,Midwest,12720.5,86.4
+2025-08-01,V1010,Harbor Tech Solutions,WBE,2025-11-29,1,Client 002,Healthcare,Midwest,36195.5,72.8
+2025-08-01,V1012,Falcon Aerospace Supply,VOB,2025-09-30,1,Client 014,Finance,Midwest,21730.38,80.8
+2025-08-01,V1012,Falcon Aerospace Supply,VOB,2026-08-01,1,Client 005,Finance,Midwest,44338.92,84.5
+2025-08-01,V1013,Brightpath Staffing,MBE,2026-02-17,1,Client 006,Healthcare,West,12280.95,75.2
+2025-08-01,V1013,Brightpath Staffing,MBE,2026-08-01,1,Client 003,Healthcare,West,14707.85,76.8
+2025-08-01,V1013,Brightpath Staffing,MBE,2026-12-14,1,Client 020,Healthcare,West,27102.22,94.0
+2025-08-01,V1014,Continental Machine Works,DOBE,2026-12-14,1,Client 005,Finance,Northeast,38616.63,90.2
+2025-08-01,V1014,Continental Machine Works,DOBE,2025-11-29,1,Client 008,Finance,Northeast,15609.77,75.2
+2025-08-01,V1014,Continental Machine Works,DOBE,2026-02-17,1,Client 015,Finance,Northeast,46598.06,84.6
+2025-08-01,V1015,Apex Diversity Partners,SME,2025-11-29,1,Client 015,Aviation,Midwest,19973.34,79.3
+2025-08-01,V1016,Silverline Logistics,MBE,2026-02-17,1,Client 003,Aviation,Northeast,9842.34,75.0
+2025-08-01,V1019,Granite Industrial Services,DOBE,2026-02-17,1,Client 023,Aviation,Midwest,41540.62,89.0
+2025-08-01,V1019,Granite Industrial Services,DOBE,2025-11-29,1,Client 009,Aviation,Midwest,16446.83,87.7
+2025-08-01,V1020,Zenith Airparts,VOB,2025-09-30,1,Client 016,Aviation,Midwest,23065.51,88.7
+2025-08-01,V1020,Zenith Airparts,VOB,2026-02-17,1,Client 004,Aviation,Midwest,25432.13,86.6
+2025-08-01,V1021,Fusion Metalworks,VOB,2026-12-14,1,Client 010,Aviation,Northeast,27113.17,76.8
+2025-08-01,V1021,Fusion Metalworks,VOB,2026-02-17,1,Client 023,Aviation,Northeast,16195.45,79.6
+2025-08-01,V1021,Fusion Metalworks,VOB,2025-11-29,1,Client 001,Aviation,Northeast,50100.23,79.1
+2025-08-01,V1022,Beacon Financial Services,SME,2026-08-01,1,Client 025,Aviation,Southeast,16624.91,91.7
+2025-08-01,V1022,Beacon Financial Services,SME,2026-12-14,1,Client 024,Aviation,Southeast,9985.05,82.8
+2025-08-01,V1022,Beacon Financial Services,SME,2026-02-17,1,Client 002,Aviation,Southeast,16489.74,81.4
+2025-08-01,V1026,Waypoint Logistics,VOB,2025-09-30,1,Client 008,Finance,West,1146.34,93.2
+2025-08-01,V1026,Waypoint Logistics,VOB,2026-08-01,1,Client 021,Finance,West,6621.32,77.3
+2025-08-01,V1027,Northgate Industrial,MBE,2026-12-14,1,Client 025,Finance,Southeast,16220.13,100.0
+2025-08-01,V1027,Northgate Industrial,MBE,2025-07-02,0,Client 022,Finance,Southeast,16523.59,83.2
+2025-08-01,V1027,Northgate Industrial,MBE,2026-12-14,1,Client 005,Finance,Southeast,17132.77,78.0
+2025-08-01,V1028,Argus Health Products,WBE,2026-08-01,1,Client 015,Manufacturing,West,17267.35,77.0
+2025-08-01,V1028,Argus Health Products,WBE,2025-11-29,1,Client 002,Manufacturing,West,13575.13,92.9
+2025-08-01,V1029,Pioneer Fabricators,DOBE,2025-11-29,1,Client 010,Finance,Southeast,25689.06,96.2
+2025-09-01,V1000,Summit Supply Co,MBE,2025-10-31,1,Client 007,Finance,Northeast,30927.32,99.5
+2025-09-01,V1003,Novaline Systems,SME,2025-12-30,1,Client 009,Healthcare,West,21596.7,92.2
+2025-09-01,V1003,Novaline Systems,SME,2027-01-14,1,Client 006,Healthcare,West,25883.14,85.9
+2025-09-01,V1003,Novaline Systems,SME,2025-12-30,1,Client 016,Healthcare,West,31400.92,100.0
+2025-09-01,V1005,Pinnacle Health Supply,WBE,2025-10-31,1,Client 005,Healthcare,Southwest,9670.59,82.0
+2025-09-01,V1007,Union Fabrication,WBE,2025-08-02,0,Client 018,Finance,West,19442.82,79.8
+2025-09-01,V1007,Union Fabrication,WBE,2026-03-20,1,Client 012,Finance,West,11524.77,76.7
+2025-09-01,V1008,Solstice Consulting,MBE,2027-01-14,1,Client 004,Manufacturing,Southeast,11095.86,84.8
+2025-09-01,V1008,Solstice Consulting,MBE,2027-01-14,1,Client 015,Manufacturing,Southeast,59308.71,77.5
+2025-09-01,V1008,Solstice Consulting,MBE,2027-01-14,1,Client 012,Manufacturing,Southeast,27869.95,85.3
+2025-09-01,V1009,Ironclad Materials,VOB,2025-08-02,0,Client 021,Aviation,Midwest,18319.59,81.0
+2025-09-01,V1009,Ironclad Materials,VOB,2027-01-14,1,Client 012,Aviation,Midwest,19538.47,82.9
+2025-09-01,V1010,Harbor Tech Solutions,WBE,2026-09-01,1,Client 020,Healthcare,Midwest,3501.62,92.5
+2025-09-01,V1011,Redwood Facilities Group,MBE,2027-01-14,1,Client 008,Healthcare,West,29986.29,75.2
+2025-09-01,V1011,Redwood Facilities Group,MBE,2026-03-20,1,Client 021,Healthcare,West,3983.76,100.0
+2025-09-01,V1011,Redwood Facilities Group,MBE,2027-01-14,1,Client 003,Healthcare,West,33860.7,84.7
+2025-09-01,V1012,Falcon Aerospace Supply,VOB,2025-08-02,0,Client 004,Finance,Midwest,3657.92,80.4
+2025-09-01,V1012,Falcon Aerospace Supply,VOB,2025-08-02,0,Client 005,Finance,Midwest,42281.94,96.0
+2025-09-01,V1013,Brightpath Staffing,MBE,2026-09-01,1,Client 004,Healthcare,West,22238.24,79.5
+2025-09-01,V1013,Brightpath Staffing,MBE,2025-10-31,1,Client 008,Healthcare,West,10901.11,79.6
+2025-09-01,V1014,Continental Machine Works,DOBE,2027-01-14,1,Client 022,Finance,Northeast,21104.38,82.7
+2025-09-01,V1014,Continental Machine Works,DOBE,2026-09-01,1,Client 024,Finance,Northeast,24409.99,82.0
+2025-09-01,V1015,Apex Diversity Partners,SME,2027-01-14,1,Client 024,Aviation,Midwest,1580.99,86.9
+2025-09-01,V1015,Apex Diversity Partners,SME,2025-08-02,0,Client 005,Aviation,Midwest,12725.78,76.0
+2025-09-01,V1015,Apex Diversity Partners,SME,2026-03-20,1,Client 014,Aviation,Midwest,28810.28,75.0
+2025-09-01,V1016,Silverline Logistics,MBE,2025-12-30,1,Client 002,Aviation,Northeast,11680.26,87.8
+2025-09-01,V1016,Silverline Logistics,MBE,2025-10-31,1,Client 023,Aviation,Northeast,4011.66,82.8
+2025-09-01,V1017,TrueNorth Manufacturing,VOB,2025-08-02,0,Client 012,Aviation,Northeast,17762.44,74.7
+2025-09-01,V1019,Granite Industrial Services,DOBE,2025-12-30,1,Client 012,Aviation,Midwest,13809.55,94.9
+2025-09-01,V1019,Granite Industrial Services,DOBE,2025-10-31,1,Client 002,Aviation,Midwest,42835.36,91.8
+2025-09-01,V1019,Granite Industrial Services,DOBE,2025-08-02,0,Client 013,Aviation,Midwest,29516.89,94.8
+2025-09-01,V1022,Beacon Financial Services,SME,2027-01-14,1,Client 021,Aviation,Southeast,21947.63,88.4
+2025-09-01,V1023,Elevate Construction Supply,DOBE,2025-12-30,1,Client 002,Finance,West,13339.6,88.0
+2025-09-01,V1024,Momentum Facility Services,SME,2025-10-31,1,Client 019,Finance,Southeast,15934.86,84.7
+2025-09-01,V1025,Crestline Consulting,MBE,2025-12-30,1,Client 007,Healthcare,Southeast,15241.08,76.7
+2025-09-01,V1025,Crestline Consulting,MBE,2025-10-31,1,Client 019,Healthcare,Southeast,17785.59,69.0
+2025-09-01,V1025,Crestline Consulting,MBE,2026-09-01,1,Client 008,Healthcare,Southeast,18572.31,88.6
+2025-09-01,V1026,Waypoint Logistics,VOB,2026-09-01,1,Client 005,Finance,West,32302.47,61.8
+2025-09-01,V1027,Northgate Industrial,MBE,2027-01-14,1,Client 004,Finance,Southeast,8203.58,88.2
+2025-09-01,V1029,Pioneer Fabricators,DOBE,2025-12-30,1,Client 008,Finance,Southeast,34442.83,76.7
+2025-09-01,V1029,Pioneer Fabricators,DOBE,2025-08-02,0,Client 019,Finance,Southeast,20435.42,79.8
+2025-10-01,V1000,Summit Supply Co,MBE,2027-02-13,1,Client 005,Finance,Northeast,14562.69,86.7
+2025-10-01,V1001,Vertex Industrial,WBE,2025-09-01,0,Client 024,Aviation,Southeast,16423.05,100.0
+2025-10-01,V1002,BlueRiver Logistics,MBE,2025-09-01,0,Client 017,Healthcare,Southwest,19396.09,93.4
+2025-10-01,V1002,BlueRiver Logistics,MBE,2026-04-19,1,Client 019,Healthcare,Southwest,19348.32,88.6
+2025-10-01,V1003,Novaline Systems,SME,2026-10-01,1,Client 002,Healthcare,West,25941.55,75.9
+2025-10-01,V1003,Novaline Systems,SME,2026-01-29,1,Client 024,Healthcare,West,8985.94,87.4
+2025-10-01,V1003,Novaline Systems,SME,2026-04-19,1,Client 022,Healthcare,West,16023.61,87.6
+2025-10-01,V1004,Cascade Manufacturing,MBE,2026-04-19,1,Client 002,Aviation,Northeast,21345.8,96.5
+2025-10-01,V1006,Meridian Aviation Parts,SME,2027-02-13,1,Client 016,Manufacturing,Southeast,13973.05,92.7
+2025-10-01,V1008,Solstice Consulting,MBE,2026-10-01,1,Client 011,Manufacturing,Southeast,33241.37,89.6
+2025-10-01,V1009,Ironclad Materials,VOB,2026-10-01,1,Client 009,Aviation,Midwest,13400.26,96.0
+2025-10-01,V1010,Harbor Tech Solutions,WBE,2026-10-01,1,Client 023,Healthcare,Midwest,18325.7,76.8
+2025-10-01,V1010,Harbor Tech Solutions,WBE,2026-10-01,1,Client 011,Healthcare,Midwest,6603.84,73.5
+2025-10-01,V1010,Harbor Tech Solutions,WBE,2026-01-29,1,Client 013,Healthcare,Midwest,8097.07,97.4
+2025-10-01,V1011,Redwood Facilities Group,MBE,2025-09-01,0,Client 014,Healthcare,West,10104.28,74.4
+2025-10-01,V1011,Redwood Facilities Group,MBE,2027-02-13,1,Client 004,Healthcare,West,18974.19,79.4
+2025-10-01,V1011,Redwood Facilities Group,MBE,2027-02-13,1,Client 023,Healthcare,West,9679.42,100.0
+2025-10-01,V1013,Brightpath Staffing,MBE,2026-04-19,1,Client 014,Healthcare,West,17537.78,94.0
+2025-10-01,V1015,Apex Diversity Partners,SME,2027-02-13,1,Client 013,Aviation,Midwest,4851.46,71.8
+2025-10-01,V1015,Apex Diversity Partners,SME,2025-09-01,0,Client 014,Aviation,Midwest,64781.53,90.8
+2025-10-01,V1016,Silverline Logistics,MBE,2026-01-29,1,Client 022,Aviation,Northeast,25225.83,91.8
+2025-10-01,V1016,Silverline Logistics,MBE,2025-11-30,1,Client 009,Aviation,Northeast,13880.5,88.1
+2025-10-01,V1017,TrueNorth Manufacturing,VOB,2025-09-01,0,Client 003,Aviation,Northeast,9129.81,82.8
+2025-10-01,V1017,TrueNorth Manufacturing,VOB,2027-02-13,1,Client 014,Aviation,Northeast,8207.86,77.1
+2025-10-01,V1018,Coastal Medical Supply,MBE,2025-09-01,0,Client 018,Finance,West,19110.55,96.1
+2025-10-01,V1019,Granite Industrial Services,DOBE,2025-09-01,0,Client 018,Aviation,Midwest,43151.87,91.2
+2025-10-01,V1019,Granite Industrial Services,DOBE,2026-04-19,1,Client 011,Aviation,Midwest,7383.46,83.2
+2025-10-01,V1019,Granite Industrial Services,DOBE,2026-01-29,1,Client 022,Aviation,Midwest,7478.32,89.4
+2025-10-01,V1022,Beacon Financial Services,SME,2026-01-29,1,Client 002,Aviation,Southeast,10437.25,87.6
+2025-10-01,V1022,Beacon Financial Services,SME,2026-01-29,1,Client 010,Aviation,Southeast,40507.16,84.4
+2025-10-01,V1022,Beacon Financial Services,SME,2025-09-01,0,Client 020,Aviation,Southeast,18387.33,81.6
+2025-10-01,V1023,Elevate Construction Supply,DOBE,2027-02-13,1,Client 005,Finance,West,36423.8,88.1
+2025-10-01,V1024,Momentum Facility Services,SME,2026-10-01,1,Client 012,Finance,Southeast,9562.05,79.7
+2025-10-01,V1025,Crestline Consulting,MBE,2026-04-19,1,Client 019,Healthcare,Southeast,35267.65,82.6
+2025-10-01,V1025,Crestline Consulting,MBE,2026-10-01,1,Client 008,Healthcare,Southeast,5677.09,79.5
+2025-10-01,V1028,Argus Health Products,WBE,2027-02-13,1,Client 018,Manufacturing,West,28732.98,80.5
+2025-10-01,V1028,Argus Health Products,WBE,2027-02-13,1,Client 001,Manufacturing,West,9804.77,87.2
+2025-10-01,V1028,Argus Health Products,WBE,2026-01-29,1,Client 020,Manufacturing,West,61631.23,75.1
+2025-10-01,V1029,Pioneer Fabricators,DOBE,2026-01-29,1,Client 023,Finance,Southeast,25860.26,88.3
+2025-10-01,V1029,Pioneer Fabricators,DOBE,2026-01-29,1,Client 025,Finance,Southeast,36804.76,98.0
+2025-11-01,V1000,Summit Supply Co,MBE,2026-11-01,1,Client 005,Finance,Northeast,10835.01,74.0
+2025-11-01,V1001,Vertex Industrial,WBE,2027-03-16,1,Client 005,Aviation,Southeast,20969.86,85.0
+2025-11-01,V1002,BlueRiver Logistics,MBE,2027-03-16,1,Client 003,Healthcare,Southwest,8728.78,98.1
+2025-11-01,V1003,Novaline Systems,SME,2026-03-01,1,Client 014,Healthcare,West,31893.02,93.8
+2025-11-01,V1003,Novaline Systems,SME,2025-12-31,1,Client 015,Healthcare,West,24812.58,98.0
+2025-11-01,V1004,Cascade Manufacturing,MBE,2026-11-01,1,Client 011,Aviation,Northeast,6574.17,79.3
+2025-11-01,V1004,Cascade Manufacturing,MBE,2025-10-02,0,Client 025,Aviation,Northeast,17222.6,78.8
+2025-11-01,V1004,Cascade Manufacturing,MBE,2025-10-02,0,Client 019,Aviation,Northeast,10255.23,90.6
+2025-11-01,V1005,Pinnacle Health Supply,WBE,2026-03-01,1,Client 002,Healthcare,Southwest,21205.9,91.7
+2025-11-01,V1005,Pinnacle Health Supply,WBE,2026-05-20,1,Client 022,Healthcare,Southwest,6112.9,75.1
+2025-11-01,V1005,Pinnacle Health Supply,WBE,2027-03-16,1,Client 003,Healthcare,Southwest,46900.58,88.4
+2025-11-01,V1006,Meridian Aviation Parts,SME,2025-12-31,1,Client 015,Manufacturing,Southeast,18013.9,79.6
+2025-11-01,V1006,Meridian Aviation Parts,SME,2026-11-01,1,Client 014,Manufacturing,Southeast,24333.65,77.6
+2025-11-01,V1006,Meridian Aviation Parts,SME,2025-10-02,0,Client 009,Manufacturing,Southeast,7873.93,85.7
+2025-11-01,V1007,Union Fabrication,WBE,2027-03-16,1,Client 010,Finance,West,9281.6,94.9
+2025-11-01,V1008,Solstice Consulting,MBE,2026-03-01,1,Client 017,Manufacturing,Southeast,11052.92,73.7
+2025-11-01,V1008,Solstice Consulting,MBE,2025-10-02,0,Client 022,Manufacturing,Southeast,36567.03,86.1
+2025-11-01,V1009,Ironclad Materials,VOB,2026-03-01,1,Client 002,Aviation,Midwest,9169.06,86.8
+2025-11-01,V1009,Ironclad Materials,VOB,2025-12-31,1,Client 001,Aviation,Midwest,18496.15,83.8
+2025-11-01,V1009,Ironclad Materials,VOB,2025-12-31,1,Client 007,Aviation,Midwest,6774.75,77.9
+2025-11-01,V1011,Redwood Facilities Group,MBE,2026-05-20,1,Client 001,Healthcare,West,2825.88,89.1
+2025-11-01,V1012,Falcon Aerospace Supply,VOB,2026-05-20,1,Client 005,Finance,Midwest,59693.64,75.9
+2025-11-01,V1013,Brightpath Staffing,MBE,2026-11-01,1,Client 017,Healthcare,West,16725.46,91.7
+2025-11-01,V1016,Silverline Logistics,MBE,2026-05-20,1,Client 002,Aviation,Northeast,12498.26,88.7
+2025-11-01,V1016,Silverline Logistics,MBE,2025-10-02,0,Client 014,Aviation,Northeast,17826.42,84.2
+2025-11-01,V1016,Silverline Logistics,MBE,2026-03-01,1,Client 001,Aviation,Northeast,24803.93,89.8
+2025-11-01,V1017,TrueNorth Manufacturing,VOB,2026-05-20,1,Client 013,Aviation,Northeast,14739.16,79.0
+2025-11-01,V1017,TrueNorth Manufacturing,VOB,2026-03-01,1,Client 023,Aviation,Northeast,7005.64,95.5
+2025-11-01,V1017,TrueNorth Manufacturing,VOB,2025-10-02,0,Client 021,Aviation,Northeast,34002.45,88.8
+2025-11-01,V1018,Coastal Medical Supply,MBE,2026-05-20,1,Client 006,Finance,West,68989.53,82.6
+2025-11-01,V1018,Coastal Medical Supply,MBE,2027-03-16,1,Client 020,Finance,West,16927.62,74.5
+2025-11-01,V1020,Zenith Airparts,VOB,2026-05-20,1,Client 008,Aviation,Midwest,12631.27,77.1
+2025-11-01,V1021,Fusion Metalworks,VOB,2027-03-16,1,Client 003,Aviation,Northeast,17506.26,89.2
+2025-11-01,V1021,Fusion Metalworks,VOB,2026-03-01,1,Client 013,Aviation,Northeast,2954.42,79.8
+2025-11-01,V1021,Fusion Metalworks,VOB,2025-12-31,1,Client 010,Aviation,Northeast,7694.45,83.8
+2025-11-01,V1022,Beacon Financial Services,SME,2026-11-01,1,Client 003,Aviation,Southeast,24355.02,74.7
+2025-11-01,V1023,Elevate Construction Supply,DOBE,2026-03-01,1,Client 017,Finance,West,14309.73,96.9
+2025-11-01,V1023,Elevate Construction Supply,DOBE,2026-03-01,1,Client 007,Finance,West,10778.59,81.7
+2025-11-01,V1023,Elevate Construction Supply,DOBE,2027-03-16,1,Client 025,Finance,West,10329.87,82.6
+2025-11-01,V1025,Crestline Consulting,MBE,2025-10-02,0,Client 008,Healthcare,Southeast,16993.63,79.2
+2025-11-01,V1026,Waypoint Logistics,VOB,2026-11-01,1,Client 006,Finance,West,22765.84,94.5
+2025-11-01,V1027,Northgate Industrial,MBE,2027-03-16,1,Client 003,Finance,Southeast,23721.35,100.0
+2025-11-01,V1027,Northgate Industrial,MBE,2026-05-20,1,Client 006,Finance,Southeast,4974.4,83.2
+2025-11-01,V1027,Northgate Industrial,MBE,2026-05-20,1,Client 025,Finance,Southeast,36457.92,82.5
+2025-12-01,V1000,Summit Supply Co,MBE,2027-04-15,1,Client 021,Finance,Northeast,10661.38,64.3
+2025-12-01,V1000,Summit Supply Co,MBE,2026-03-31,1,Client 020,Finance,Northeast,29804.67,78.6
+2025-12-01,V1000,Summit Supply Co,MBE,2026-01-30,1,Client 011,Finance,Northeast,4387.16,86.5
+2025-12-01,V1001,Vertex Industrial,WBE,2026-03-31,1,Client 015,Aviation,Southeast,7301.19,84.8
+2025-12-01,V1001,Vertex Industrial,WBE,2026-03-31,1,Client 021,Aviation,Southeast,36226.79,83.7
+2025-12-01,V1002,BlueRiver Logistics,MBE,2026-03-31,1,Client 017,Healthcare,Southwest,5985.59,84.7
+2025-12-01,V1002,BlueRiver Logistics,MBE,2026-06-19,1,Client 003,Healthcare,Southwest,14761.87,98.7
+2025-12-01,V1003,Novaline Systems,SME,2026-03-31,1,Client 012,Healthcare,West,8175.5,66.8
+2025-12-01,V1004,Cascade Manufacturing,MBE,2026-12-01,1,Client 020,Aviation,Northeast,9842.75,93.3
+2025-12-01,V1005,Pinnacle Health Supply,WBE,2027-04-15,1,Client 019,Healthcare,Southwest,3810.48,81.7
+2025-12-01,V1005,Pinnacle Health Supply,WBE,2025-11-01,0,Client 018,Healthcare,Southwest,59738.46,80.2
+2025-12-01,V1006,Meridian Aviation Parts,SME,2026-12-01,1,Client 021,Manufacturing,Southeast,20435.06,91.4
+2025-12-01,V1006,Meridian Aviation Parts,SME,2026-06-19,1,Client 007,Manufacturing,Southeast,17196.61,79.0
+2025-12-01,V1006,Meridian Aviation Parts,SME,2026-12-01,1,Client 011,Manufacturing,Southeast,17913.77,98.8
+2025-12-01,V1007,Union Fabrication,WBE,2025-11-01,0,Client 015,Finance,West,12696.37,86.5
+2025-12-01,V1011,Redwood Facilities Group,MBE,2027-04-15,1,Client 006,Healthcare,West,8738.17,95.4
+2025-12-01,V1011,Redwood Facilities Group,MBE,2026-06-19,1,Client 002,Healthcare,West,36305.7,79.7
+2025-12-01,V1011,Redwood Facilities Group,MBE,2026-06-19,1,Client 008,Healthcare,West,11838.18,81.5
+2025-12-01,V1012,Falcon Aerospace Supply,VOB,2026-06-19,1,Client 006,Finance,Midwest,36004.21,90.8
+2025-12-01,V1012,Falcon Aerospace Supply,VOB,2026-06-19,1,Client 012,Finance,Midwest,25425.92,95.5
+2025-12-01,V1012,Falcon Aerospace Supply,VOB,2026-03-31,1,Client 010,Finance,Midwest,13136.39,83.0
+2025-12-01,V1013,Brightpath Staffing,MBE,2027-04-15,1,Client 021,Healthcare,West,25990.16,94.8
+2025-12-01,V1014,Continental Machine Works,DOBE,2027-04-15,1,Client 004,Finance,Northeast,10064.41,92.4
+2025-12-01,V1014,Continental Machine Works,DOBE,2026-06-19,1,Client 018,Finance,Northeast,41807.73,99.4
+2025-12-01,V1015,Apex Diversity Partners,SME,2026-03-31,1,Client 022,Aviation,Midwest,24326.41,93.6
+2025-12-01,V1015,Apex Diversity Partners,SME,2025-11-01,0,Client 020,Aviation,Midwest,24619.13,83.3
+2025-12-01,V1015,Apex Diversity Partners,SME,2026-12-01,1,Client 005,Aviation,Midwest,6949.29,69.3
+2025-12-01,V1016,Silverline Logistics,MBE,2027-04-15,1,Client 010,Aviation,Northeast,24979.75,86.2
+2025-12-01,V1016,Silverline Logistics,MBE,2027-04-15,1,Client 021,Aviation,Northeast,14223.61,82.8
+2025-12-01,V1017,TrueNorth Manufacturing,VOB,2026-12-01,1,Client 023,Aviation,Northeast,5119.59,92.3
+2025-12-01,V1017,TrueNorth Manufacturing,VOB,2026-06-19,1,Client 003,Aviation,Northeast,14827.66,87.3
+2025-12-01,V1017,TrueNorth Manufacturing,VOB,2027-04-15,1,Client 010,Aviation,Northeast,36580.12,83.9
+2025-12-01,V1020,Zenith Airparts,VOB,2027-04-15,1,Client 022,Aviation,Midwest,26340.31,94.4
+2025-12-01,V1020,Zenith Airparts,VOB,2027-04-15,1,Client 017,Aviation,Midwest,21139.82,85.2
+2025-12-01,V1020,Zenith Airparts,VOB,2026-06-19,1,Client 003,Aviation,Midwest,22209.53,79.8
+2025-12-01,V1021,Fusion Metalworks,VOB,2026-03-31,1,Client 012,Aviation,Northeast,17177.57,73.1
+2025-12-01,V1022,Beacon Financial Services,SME,2026-06-19,1,Client 011,Aviation,Southeast,20890.84,98.6
+2025-12-01,V1023,Elevate Construction Supply,DOBE,2025-11-01,0,Client 005,Finance,West,2596.44,85.6
+2025-12-01,V1024,Momentum Facility Services,SME,2026-12-01,1,Client 017,Finance,Southeast,27870.23,88.0
+2025-12-01,V1027,Northgate Industrial,MBE,2026-01-30,1,Client 025,Finance,Southeast,10250.27,88.8
+2025-12-01,V1027,Northgate Industrial,MBE,2026-12-01,1,Client 020,Finance,Southeast,14358.62,78.2
+2025-12-01,V1028,Argus Health Products,WBE,2027-04-15,1,Client 006,Manufacturing,West,20213.36,73.8
